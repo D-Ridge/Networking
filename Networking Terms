@@ -1,0 +1,202 @@
+					The Definition of 100 Networking Terms
+
+
+3G- Third generation of mobile telecommunications technology, typically offering higher data rates than earlier generations.
+
+4G- Fourth generation of mobile telecommunications technology, typically offering even higher data rates than 3G.
+
+5G- Fifth generation of mobile telecommunications technology, offering faster speeds and higher bandwidth than 4G.
+
+Access Control List (ACL)- A set of rules that controls traffic in and out of a network or individual device.
+
+Address- Unique identifier for a specific computer or device on a network.
+
+Address Resolution Protocol (ARP)- Protocol for mapping an Internet Protocol address (IP address) to a physical machine address that is recognized in the local network.
+
+Administrator- User with full control over a network or individual computer.
+
+Address Resolution Protocol (ARP)- Protocol used to map an IP address to a physical address, such as a MAC address.
+
+Advanced Encryption Standard (AES)- Symmetric key algorithm used to encrypt and decrypt data.
+
+Amazon Web Services (AWS)- Comprehensive, evolving cloud computing platform provided by Amazon.
+
+Apache- Popular open-source web server.
+
+Application Programming Interface (API)- Specific method prescribed by a computer software program for requesting services from another software program.
+
+Asynchronous Transfer Mode (ATM)- Cell-based switching technique for voice, video, and computer data.
+
+Auto Scaling- Cloud computing feature that provides the ability to scale an application up or down automatically according to conditions set by the user.
+
+Bandwidth- Amount of data that can be transferred over a given period of time.
+
+Bit- Smallest unit of data in a computer.
+
+Bridge- Device that connects two or more networks together.
+
+Broadcast- Message sent to all devices on a network.
+
+Client- Device or software application that requests services from a server.
+
+Cloud- Network of remote servers hosted on the internet and used to store, manage, and process data.
+
+Cloud Computing- Ability to access applications and data over the internet.
+
+Cluster- Group of computers that work together to provide high availability.
+
+Code- Set of instructions that a computer can understand.
+
+Collision- Condition that occurs when two devices on a network attempt to transmit at the same time.
+
+Compiler- Program that converts code into a form that a computer can execute.
+
+Crossover Cable- Type of Ethernet cable used to connect two devices of the same type, such as two computers.
+
+Data Center- Facility used to house networking equipment and other computer systems.
+
+Data Encryption Standard (DES)- Standard for encrypting data that was developed by the U.S. National Institute of Standards and Technology (NIST).
+
+Data Link Layer- Second layer of the OSI model, which is responsible for error-free transfer of data frames from one node to another.
+
+Data Mining- Process of extracting patterns from large data sets.
+
+Database- Collection of data that can be accessed by computers.
+
+Database Server- Server that stores and manages data in a database.
+
+Dedicated Line- The physical connection between two devices that is not shared with any other devices.
+
+Denial of Service (DoS)- Attack that prevents legitimate users from accessing a network or individual device.
+
+Developer- Programmer who writes code to create software applications.
+
+Dial-up- Type of internet connection that uses a telephone line.
+
+Domain Name System (DNS)- System that converts human-readable domain names into numerical IP addresses.
+
+Dynamic Host Configuration Protocol (DHCP)- Protocol for automatically assigning IP addresses to devices on a network.
+
+Encryption- Process of converting data into a form that cannot be read by unauthorized individuals.
+
+Ethernet- Popular type of physical network that uses twisted pair or fiber optic cables to connect devices.
+
+Extranet- Private network that uses the public internet to securely connect two or more locations.
+
+File Transfer Protocol (FTP)- Protocol used to transfer files from one computer to another over a network.
+
+Firewall- Device or software application that filters traffic between two networks or between a device and a network.
+
+Firmware- Software that is stored in a computer's read-only memory (ROM).
+
+Gateway- Device that connects two networks with different protocols or two devices with different interfaces.
+
+Gigabit Ethernet- Ethernet standard with a data transfer rate of one gigabit per second.
+
+Hub- Device that connects multiple network devices together.
+
+Hypertext Transfer Protocol (HTTP)- Protocol used to transfer web pages and other files on the World Wide Web.
+
+Hypertext Transfer Protocol Secure (HTTPS)- Secure version of HTTP that is used to transfer sensitive data, such as credit card numbers.
+
+IGMP (Internet Group Management Protocol)- Protocol used to manage multicast group membership.
+
+Infrastructure as a Service (IaaS)- Form of cloud computing that delivers computer infrastructure on an as-a-service basis.
+
+Intrusion Detection System (IDS)- System that monitors network traffic for signs of malicious activity.
+
+Input- Data or instructions that are entered into a computer.
+
+JavaScript- Programming language that is used to create interactive web pages.
+
+Jitter- Variation in delay between data packets sent across a network.
+
+LAN (Local Area Network)- Network that is confined to a relatively small area.
+
+Leased Line- Point-to-point link between two devices in which each device has a dedicated connection to the other.
+
+Internet Protocol version 4 (IPv4)- Previous version of the Internet Protocol (IP), which is being replaced by IPv6.
+
+Internet Protocol version 6 (IPv6)- Latest version of the Internet Protocol (IP), which is the protocol used to route data on the internet.
+
+Internet Service Provider (ISP)- Company that provides access to the internet.
+
+IP Address- Unique identifier for a device on a network.
+
+Malware- Short for "malicious software," it is any software designed to harm a computer or its user.
+
+Modem- Device that converts digital signals to analog signals and vice versa.
+
+Multicast- Message sent to a group of devices on a network.
+
+NAT (Network Address Translation)- Technique used to allow devices on a private network to communicate with devices on a public network.
+
+Netmask- Value used to specify which portion of an IP address represents the network and which portion represents the host.
+
+Network- Group of two or more devices that are connected.
+
+Network Interface Card (NIC)- Device that connects a computer to a network.
+
+Network as a Service (NaaS)- Form of cloud computing that delivers network infrastructure as a service.
+
+Open system interconnection model (OSI model)- Framework for understanding how data is transmitted between two nodes on a network.
+
+Packet- Unit of data that is sent over a network.
+
+Peer-to-Peer Architecture- Network architecture in which each computer or process on the network can act as both a client and a server.
+
+Platform as a Service (PaaS)- Form of cloud computing that delivers a computing platform and/or solution stack as a service.
+
+Protocol- Set of rules that govern communication between devices on a network.
+
+Router- Device that forwards packets between networks or between devices on the same network.
+
+Secure Sockets Layer (SSL)- Protocol for securing data transfer over the internet.
+
+Server- Device or software application that provides services to other devices or software applications.
+
+Service Pack- Collection of updates and fixes for a software program.
+
+Simple Mail Transfer Protocol (SMTP)- Protocol used to send email.
+
+Software as a Service (SaaS)- Form of cloud computing that delivers software as a service.
+
+Spyware- Type of malware that gathers information about a user without their knowledge.
+
+Structured Query Language (SQL)- Standard language for accessing and manipulating databases.
+
+Subnet- Portion of a network that is isolated from the rest of the network.
+
+Switch- Device that connects multiple devices together on a network and forwards packets between them.
+
+Transmission Control Protocol (TCP)- Protocol used to transfer data over a network.
+
+Trojan Horse- Type of malware that masquerades as legitimate software in order to trick users into installing it.
+
+Unicast- Message sent to a single destination on a network.
+
+User Datagram Protocol (UDP)- Protocol used to transfer data over a network.
+
+Virtual Private Network (VPN)- Technique used to create a secure connection between two or more devices over a public network.
+
+Virtual Machine (VM)- Software program that emulates the hardware of a computer.
+
+Voice over IP (VoIP)- Technique used to transmit voice traffic over a data network.
+
+Wide Area Network (WAN)- Network that covers a large geographical area.
+
+Wireless Access Point (WAP)- Device that connects wireless devices to a wired network.
+
+Wired Equivalent Privacy (WEP)- Security protocol for wireless networks.
+
+Wi-Fi Protected Access (WPA)- Security protocol for wireless networks. It's an improvement over WEP and is required for networks that use 802.11n.
+
+Worm- Type of malware that replicates itself and spreads to other computers on a network.
+
+Zero Configuration Networking- Set of technologies that automatically configures IP addresses and other network settings without user intervention.
+
+Zombie- Computer that has been infected with a virus and can be controlled by a remote attacker.
+
+Zone- Logical grouping of network resources. Zones can be used to segment a network for security or performance reasons.
+
+Zone Transfer- Process of copying DNS zone information from one DNS server to another.
